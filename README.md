@@ -1,7 +1,7 @@
 ## Short Video Overview:
 https://youtu.be/1il4uzZJOnc
 
-The source code is closed for outsider users, if you are interested in cooperation, leave me a message.
+The source code is private, if you are interested in cooperation, leave me a message.
 
 ## 1. The Motivation For The Project
 These days many people spend their time inside the virtual world. Even if we are outside our house we usually 
